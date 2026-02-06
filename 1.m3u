@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Инфоканал" , Инфоканал RB Play
 https://www.dropbox.com/scl/fi/55npafe13atk6104ihjce/RB-PLAY.mp4?rlkey=yg19zddene0b47gg6ykqzhwjd&st=7g3knlwt&dl=1
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/yu.png" group-title="Общие",Ю (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="Кино" ,Vip Premiere HD
