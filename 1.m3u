@@ -1,36 +1,3 @@
-Skip to content
-RBPlayO
-demo5
-Repository navigation
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Files
-Go to file
-t
-.gitignore
-5.m3u
-demo5
-/5.m3u
-RBPlayO
-RBPlayO
-Create 5.m3u
-9df443f
- · 
-2 days ago
-demo5
-/5.m3u
-
-Code
-
-Blame
-480 lines (479 loc) · 35.4 KB
 #EXTM3U url-tvg="http://1lot.tv/epg/epg.xml"
 #EXTINF:-1 group-title="Инфоканал" , Инфоканал 1 RB Play
 https://www.dropbox.com/scl/fi/5bw4ta1nbf2im0pus9j0n/4.mp4?rlkey=5sy76rbbs8u17jqwlxiy9nt4p&st=6r3yq8cc&dl=1
